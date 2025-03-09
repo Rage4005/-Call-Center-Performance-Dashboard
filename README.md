@@ -1,3 +1,4 @@
+Power BI Desktop 10-03-2025 03_01_31.png
 📊 Call Center Performance Dashboard - Power BI
 This Power BI dashboard provides an in-depth analysis of call center performance, helping telecom companies improve customer service efficiency. It visualizes key metrics such as:
 
